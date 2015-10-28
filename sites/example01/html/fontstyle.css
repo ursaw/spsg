@@ -1,0 +1,12 @@
+/*
+http://www.google.com/fonts
+*/
+@import url(http://fonts.googleapis.com/css?family=Lobster|Walter+Turncoat);
+
+html{
+font-family: 'Walter Turncoat', cursive;
+}
+
+h1 , h2 {
+font-family: 'Lobster', cursive;
+}
