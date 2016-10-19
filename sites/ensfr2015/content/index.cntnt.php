@@ -2,8 +2,12 @@
       <div class="jumbotron">
         <h1>EnSFr&nbsp;<img src="<?php /* img/EnSFr82.png*/ ?>img/ensfr_stander.png" style="width:150px"/></h1>
         <p class="lead">Entdecker und Seefahrer Fördervereinigung e.V.</p>
-      </div>
 
+       <div class="alert alert-danger" role="alert">
+          Der EnSFr hat den Klassenerhalt in der <a href="bundesliga.html">2. Segelbundesliga</a> gesichert!<br/>
+         Vielen Dank an die Entdecker-Retter!
+       </div>
+</div>
 
  <div class="row">
         <div class="col-md-4">

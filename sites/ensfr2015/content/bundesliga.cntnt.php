@@ -67,5 +67,6 @@ besetzt.
   <dt>2014</dt>  <dd>Relegation: Platz 9</dd>
   <dt>    </dt>  <dd>Zweite Liga: Platz 8</dd>
   <dt>2015</dt>  <dd>Zweite Liga: Platz 11</dd>
-  <dt>Ziel 2016</dt>  <dd>Klassenerhalt sichern</dd>
+  <dt>2016</dt>  <dd>Zweite Liga: Klassenerhalt!</dd>
+  <dt>Ziel 2017</dt>  <dd>Klassenerhalt sichern</dd>
 </dl>

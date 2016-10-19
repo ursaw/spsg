@@ -2,6 +2,10 @@
 // http://stackoverflow.com/questions/5683225/how-to-generate-a-static-html-file-from-the-output-of-a-php-script-using-php
 //	
 //  
+//  commandline:  php -f generateSite.php site=ensfr
+//
+// 
+// copyright ursaw CC BY-SA 4.0
 
 require_once 'config.inc.php';
 
