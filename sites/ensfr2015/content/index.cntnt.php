@@ -2,11 +2,11 @@
       <div class="jumbotron">
         <h1>EnSFr&nbsp;<img src="<?php /* img/EnSFr82.png*/ ?>img/ensfr_stander.png" style="width:150px"/></h1>
         <p class="lead">Entdecker und Seefahrer Fördervereinigung e.V.</p>
-
        <div class="alert alert-danger" role="alert">
           Der EnSFr hat den Klassenerhalt in der <a href="bundesliga.html">2. Segelbundesliga</a> gesichert!<br/>
          Vielen Dank an die Entdecker-Retter!
        </div>
+
 </div>
 
  <div class="row">
@@ -30,8 +30,9 @@
        
        <div class="thumbnail with-caption">
   		<a href="bundesliga.html">
-  		<img src="img/bl/bl2014_Tutzing_small.jpg" class="img-thumbnail"></a>
-		  <p>EnSFr bei der Bundesliga<small>&copy;&nbsp;DSBL/Lars&nbsp;Wehrmann</small></p>
+  		<img src="img/bl/2016-10_entret.jpg" class="img-thumbnail"></a>
+		  <p>Die Entdecker-Retter
+<?php /* <small>&copy;&nbsp;DSBL/Lars&nbsp;Wehrmann</small><?php */ ?></p>
 		</div>	
 		
        

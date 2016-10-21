@@ -3,7 +3,7 @@
 <!-- ================================================== -->
     <footer>
      <div class="container">
-        <p class="text-muted"><a href="https://creativecommons.org/licenses/by-sa/4.0/"  >CC BY-SA</a> EnSFr 2016-10 
+        <p class="text-muted"><a href="https://creativecommons.org/licenses/by-sa/4.0/"  >CC BY-SA</a> EnSFr <?= date("Y-m-d") ?> 
 	&nbsp; 
         <a href="recht.html" class="btn btn-default btn-xs active" role="button">Rechtliches</a>
 	&nbsp; 
