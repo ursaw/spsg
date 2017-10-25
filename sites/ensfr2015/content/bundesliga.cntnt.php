@@ -68,5 +68,5 @@ besetzt.
   <dt>    </dt>  <dd>Zweite Liga: Platz 8</dd>
   <dt>2015</dt>  <dd>Zweite Liga: Platz 11</dd>
   <dt>2016</dt>  <dd>Zweite Liga: Klassenerhalt!</dd>
-  <dt>Ziel 2017</dt>  <dd>Klassenerhalt sichern</dd>
+  <dt>2017</dt>  <dd>unglücklich an der relegation gescheitert</dd>
 </dl>

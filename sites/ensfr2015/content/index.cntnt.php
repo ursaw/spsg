@@ -2,11 +2,11 @@
       <div class="jumbotron">
         <h1>EnSFr&nbsp;<img src="<?php /* img/EnSFr82.png*/ ?>img/ensfr_stander.png" style="width:150px"/></h1>
         <p class="lead">Entdecker und Seefahrer Fördervereinigung e.V.</p>
-       <div class="alert alert-danger" role="alert">
+<?php /*       <div class="alert alert-danger" role="alert">
           Der EnSFr hat den Klassenerhalt in der <a href="bundesliga.html">2. Segelbundesliga</a> gesichert!<br/>
          Vielen Dank an die Entdecker-Retter!
        </div>
-
+*/ ?>
 </div>
 
  <div class="row">
@@ -24,14 +24,14 @@
         </div>
         <div class="col-md-4">
           <h2>Segel Bundesliga</h2>
-          <p>Seit 2014 ist der EnSFr in der 
-           2.&nbsp;<a href="http://segelbundesliga.de/">Segelbundesliga</a>.</p>
-          <p><a class="btn btn-default" href="bundesliga.html" role="button">Mehr... &raquo;</a></p>
+          <p>Von 2014 bis 2017 war der EnSFr in der 
+           2.&nbsp;<a href="http://segelbundesliga.de/">Segelbundesliga</a>.</p>   
+          </p><a class="btn btn-default btn-info" href="bundesliga.html" role="button">Mehr... &raquo;</a></p>
        
        <div class="thumbnail with-caption">
   		<a href="bundesliga.html">
-  		<img src="img/bl/2016-10_entret.jpg" class="img-thumbnail"></a>
-		  <p>Die Entdecker-Retter
+  		<img src="img/bl/2017-10_relegations_team.jpg" class="img-thumbnail" alt="EnSFr Team der Relegation 2017 um Skipper Schönfeld"></a>
+		  <p>Die letzten Entdecker der Bundesliga<small>EnSFr/Stammer</small></p>
 <?php /* <small>&copy;&nbsp;DSBL/Lars&nbsp;Wehrmann</small><?php */ ?></p>
 		</div>	
 		
@@ -45,7 +45,7 @@
 			  <?= mailtoJS("info@ensfr.de"); ?>
 			</address>
           </p>
-          <p><a class="btn btn-default" href="recht.html" role="button">Recht und Impressum &raquo;</a></p>
+          <p><a class="btn btn-default btn-info" href="recht.html" role="button">Recht und Impressum &raquo;</a></p>
         </div>
       </div>
 

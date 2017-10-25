@@ -5,7 +5,7 @@
      <div class="container">
         <p class="text-muted"><a href="https://creativecommons.org/licenses/by-sa/4.0/"  >CC BY-SA</a> EnSFr <?= date("Y-m-d") ?> 
 	&nbsp; 
-        <a href="recht.html" class="btn btn-default btn-xs active" role="button">Rechtliches</a>
+        <a href="recht.html" class="btn btn-default active" role="button">Rechtliches</a>
 	&nbsp; 
 	<a href='https://gochare.com/de/channel/subscribe_channel?id=45485055-0aab-45f3-8896-2e5faa8d5518' target='_blank' class='chare-follow-button btn btn-default'> @Entdecker folgen</a>
 	<script id='query' src='http://wechare.com/widget/widget.js' type='text/javascript'></script>
