@@ -31,7 +31,7 @@
        <div class="thumbnail with-caption">
   		<a href="bundesliga.html">
   		<img src="img/bl/2017-10_relegations_team.jpg" class="img-thumbnail" alt="EnSFr Team der Relegation 2017 um Skipper Schönfeld"></a>
-		  <p>Die letzten Entdecker der Bundesliga<small>EnSFr/Stammer</small></p>
+		  <p>Die vorerst letzten Entdecker der Bundesliga<small>EnSFr/Stammer</small></p>
 <?php /* <small>&copy;&nbsp;DSBL/Lars&nbsp;Wehrmann</small><?php */ ?></p>
 		</div>	
 		
