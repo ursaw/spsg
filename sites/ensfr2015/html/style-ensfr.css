@@ -63,3 +63,9 @@ body {
   height: 60px;
   background-color: #f5f5f5;
 }
+
+
+.copyleft {
+  display:inline-block;
+  transform: rotate(180deg);
+}

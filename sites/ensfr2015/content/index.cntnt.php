@@ -41,7 +41,7 @@
           <h2>Das Impressum</h2>
           <p>
 			<address>
-			  <strong>Berndt Thomann</strong><br/>
+			  <strong>Klaus Stammerjohann</strong><br/>
 			  <?= mailtoJS("info@ensfr.de"); ?>
 			</address>
           </p>

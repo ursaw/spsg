@@ -44,11 +44,11 @@
 
     <h4>1.Vorsitzender</h4>
 	<address>
-	  <strong>Berndt Thomann</strong><br>
-		Westenhofstr.2<br/>
-		24159 Kiel<br/>
+	  <strong>Klaus Stammerjohann</strong><br>
+		Warnkesweg 25<br/>
+		22453 Hamburg<br/>
 	
-		Tel.   0431-372812<br/>
+		Tel.   0172-1999800<br/>
 		Fax.   04392-9168193<br/>
 	</address>
 	
