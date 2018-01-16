@@ -45,7 +45,7 @@
     <h4>1.Vorsitzender</h4>
 	<address>
 	  <strong>Klaus Stammerjohann</strong><br>
-		Warnkesweg 25<br/>
+		Warnckesweg 25<br/>
 		22453 Hamburg<br/>
 	
 		Tel.   0172-1999800<br/>
