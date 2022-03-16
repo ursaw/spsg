@@ -40,6 +40,7 @@ foreach (array('Louisenlund2007_001.jpg' ,'Louisenlund2007_006.jpg' ,'Louisenlun
 
 $spsg_jssor_img_array=array('Louisenlund2007_001.jpg' ,'Louisenlund2007_006.jpg' ,'Louisenlund2007_007.jpg' ,'Louisenlund2007_009.jpg' ,'Louisenlund2007_010.jpg' ,'Louisenlund2007_011.jpg' ,'Louisenlund2007_015.jpg' ,'Louisenlund2007_021.jpg' ,'Louisenlund2007_022.jpg' ,'Louisenlund2007_023.jpg' ,'Louisenlund2007_029.jpg' ,'Louisenlund2007_034.jpg' ,'Louisenlund2007_035.jpg' ,'Louisenlund2007_037.jpg' ,'Louisenlund2007_040.jpg' ,'Louisenlund2007_042.jpg' ,'Louisenlund2007_051.jpg' ,'Louisenlund2007_052.jpg' ,'Louisenlund2007_055.jpg' ,'Louisenlund2007_061.jpg' ,'Louisenlund2007_062.jpg' ,'Louisenlund2007_064.jpg' ,'Louisenlund2007_065.jpg' ,'Louisenlund2007_071.jpg' ,'Louisenlund2007_073.jpg' ,'Louisenlund2007_076.jpg' ,'Louisenlund2007_078.jpg' ,'Louisenlund2007_080.jpg' ,'Louisenlund2007_081.jpg' ,'Louisenlund2007_085a.jpg' ,'Louisenlund2007_092.jpg' ,'Louisenlund2007_093.jpg' ,'Louisenlund2007_097.jpg' ,'Louisenlund2007_100.jpg' ,'Louisenlund2007_103.jpg' ,'Louisenlund2007_107.jpg' );
 $spsg_jssor_img_path='http://ensfr.wihlfahrt.net/img/LouisenlundOK2007';
+$spsg_jssor_img_path='http://ursaw.bplaced.net/ensfr/img/LouisenlundOK2007';
 
 $spsg_jssor_img_width=600;
 $spsg_jssor_img_heigth=450;

@@ -6,11 +6,15 @@ rem  ACHTUNG, wenn das alles nicht unter C:\tmp steht, dann bitte die Pfade in p
 echo on
 
 rem set workdir="C:\tmp"
+
+set xampp=c:\xampp
 set phpmainfile=generateAll.php
+
+
 
 
 
 cd %workdir%
  
 
-php\php.exe  %phpmainfile%  
+%xampp%\php\php.exe  generateAll.php

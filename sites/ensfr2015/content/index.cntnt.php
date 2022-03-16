@@ -24,14 +24,14 @@
         </div>
         <div class="col-md-4">
           <h2>Segel Bundesliga</h2>
-          <p>Von 2014 bis 2017 war der EnSFr in der 
-           2.&nbsp;<a href="http://segelbundesliga.de/">Segelbundesliga</a>.</p>   
+          <p>Nach langer Abstinenz hat sich der EnSFr für die 
+             2.&nbsp;<a href="http://segelbundesliga.de/">Segelbundesliga</a> qualifiziert!</p>   
           </p><a class="btn btn-default btn-info" href="bundesliga.html" role="button">Mehr... &raquo;</a></p>
        
        <div class="thumbnail with-caption">
   		<a href="bundesliga.html">
-  		<img src="img/bl/2017-10_relegations_team.jpg" class="img-thumbnail" alt="EnSFr Team der Relegation 2017 um Skipper Schönfeld"></a>
-		  <p>Die vorerst letzten Entdecker der Bundesliga<small>EnSFr/Stammer</small></p>
+  		<img src="img/bl/2021-11_aufsteiger_team.jpeg" class="img-thumbnail" alt="EnSFr Team der Relegation 2020 um Skipper Dietrich"></a>
+		  <p>Der Wiedereinzug in die Bundesliga<small>EnSFr/Antje</small></p>
 <?php /* <small>&copy;&nbsp;DSBL/Lars&nbsp;Wehrmann</small><?php */ ?></p>
 		</div>	
 		

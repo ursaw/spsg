@@ -45,8 +45,8 @@
     <h4>1.Vorsitzender</h4>
 	<address>
 	  <strong>Klaus Stammerjohann</strong><br>
-		Warnckesweg 25<br/>
-		22453 Hamburg<br/>
+		Große Freiheit 77<br/>
+		22767 Hamburg<br/>
 	
 		Tel.   0172-1999800<br/>
 		Fax.   04392-9168193<br/>
@@ -56,7 +56,7 @@
     <h4>V.i.d.S.d.P.:</h4>
 
 	<address>
-	  <strong>Ulrich Hannemann</strong><br>
+	  <strong>Urs Wihlfahrt</strong><br>
 		<?= mailtoJS("info@ensfr.de");?>.
 	</address>
 	

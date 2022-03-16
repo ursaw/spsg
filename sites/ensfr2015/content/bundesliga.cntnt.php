@@ -69,4 +69,8 @@ besetzt.
   <dt>2015</dt>  <dd>Zweite Liga: Platz 11</dd>
   <dt>2016</dt>  <dd>Zweite Liga: Klassenerhalt!</dd>
   <dt>2017</dt>  <dd>unglücklich in der Relegation gescheitert</dd>
+  <dt>2018</dt>  <dd>unglücklich in der Relegation gescheitert</dd>
+  <dt>2019</dt>  <dd>unglücklich in der Relegation gescheitert</dd>
+  <dt>2020</dt>  <dd>unglücklich in der Relegation gescheitert</dd>
+  <dt>2020</dt>  <dd>Wiedereinzug in Bundesliga 2022 durch Relegation</dd>
 </dl>
