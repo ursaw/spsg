@@ -1,5 +1,13 @@
 
 <h1>Der EnSFr in der Segelbundesliga</h1>
+<p>
+Die Entdecker inzwischen alte Legenden in der Segelbundesliga.
+
+Nach zwischenzeitlicher Abstinez konnten sich die Entdecker jetzt für das zweite Jahr in Folge in der Bundesliga behaupten.
+
+</p>
+
+<?php /*
 
 <p>
 Die Entdecker kommen.... mit einer Legende am Lenker. Frank Schönfeld, der singende 
@@ -58,19 +66,22 @@ absoluten Fehlstart hin. Wer sind die anderen Segler? Taktik macht der erfahrene
 505-Segler Matten Jetschke aus Bremen, Trimmer ist der OK-­Segler Jörn Richter. Das Vorschiff wird von dem ehemaligen Kieler 505-Segler und Journalisten Andreas Schmidt 
 besetzt. 
 </p> 
- 
+
+
+
+*/ ?>
 
 <h1>Leistungskurve:</h1>
 
 <dl class="dl-horizontal">
   <dt>2013</dt>  <dd>nicht angetreten</dd>
   <dt>2014</dt>  <dd>Relegation: Platz 9</dd>
-  <dt>    </dt>  <dd>Zweite Liga: Platz 8</dd>
   <dt>2015</dt>  <dd>Zweite Liga: Platz 11</dd>
   <dt>2016</dt>  <dd>Zweite Liga: Klassenerhalt!</dd>
   <dt>2017</dt>  <dd>unglücklich in der Relegation gescheitert</dd>
   <dt>2018</dt>  <dd>unglücklich in der Relegation gescheitert</dd>
   <dt>2019</dt>  <dd>unglücklich in der Relegation gescheitert</dd>
   <dt>2020</dt>  <dd>unglücklich in der Relegation gescheitert</dd>
-  <dt>2020</dt>  <dd>Wiedereinzug in Bundesliga 2022 durch Relegation</dd>
+  <dt>2021</dt>  <dd>Wiedereinzug in Bundesliga 2022 durch Relegation</dd>
+  <dt>2022</dt>  <dd>Zweite Liga: Platz 15, Relegation Platz 2</dd>
 </dl>

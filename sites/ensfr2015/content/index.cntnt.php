@@ -24,18 +24,17 @@
         </div>
         <div class="col-md-4">
           <h2>Segel Bundesliga</h2>
-          <p>Nach langer Abstinenz hat sich der EnSFr für die 
-             2.&nbsp;<a href="http://segelbundesliga.de/">Segelbundesliga</a> qualifiziert!</p>   
+          <p>Das zweite Jahr in Folge Zweite
+             &nbsp;<a href="http://segelbundesliga.de/">Segelbundesliga</a>!</p>   
           </p><a class="btn btn-default btn-info" href="bundesliga.html" role="button">Mehr... &raquo;</a></p>
        
        <div class="thumbnail with-caption">
   		<a href="bundesliga.html">
-  		<img src="img/bl/2021-11_aufsteiger_team.jpeg" class="img-thumbnail" alt="EnSFr Team der Relegation 2020 um Skipper Dietrich"></a>
-		  <p>Der Wiedereinzug in die Bundesliga<small>EnSFr/Antje</small></p>
+  		<img src="img/bl/2022-11_relegations_team.jpeg" class="img-thumbnail" alt="EnSFr Team der Relegation 2020 um Skipper Dietrich"></a>
+		  <p>Das Relegationssollübererfüller Team<small>EnSFr/Stammer</small></p>
 <?php /* <small>&copy;&nbsp;DSBL/Lars&nbsp;Wehrmann</small><?php */ ?></p>
 		</div>	
-		
-       
+      
        </div>
         <div class="col-md-4">
           <h2>Das Impressum</h2>
