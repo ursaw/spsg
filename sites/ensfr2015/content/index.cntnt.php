@@ -25,7 +25,7 @@
         <div class="col-md-4">
           <h2>Segel Bundesliga</h2>
           <p>Das zweite Jahr in Folge Zweite
-             &nbsp;<a href="http://segelbundesliga.de/">Segelbundesliga</a>!</p>   
+            <a href="http://segelbundesliga.de/">Segelbundesliga</a>!</p>   
           </p><a class="btn btn-default btn-info" href="bundesliga.html" role="button">Mehr... &raquo;</a></p>
        
        <div class="thumbnail with-caption">

@@ -84,4 +84,6 @@ besetzt.
   <dt>2020</dt>  <dd>unglücklich in der Relegation gescheitert</dd>
   <dt>2021</dt>  <dd>Wiedereinzug in Bundesliga 2022 durch Relegation</dd>
   <dt>2022</dt>  <dd>Zweite Liga: Platz 15, Relegation Platz 2</dd>
+  <dt>2023</dt>  <dd>Zweite Liga: Platz 15, Relegation Platz 5</dd>
+  <dt>2024</dt>  <dd>Zweite Liga: Platz  5, KEINE Relegation </dd>
 </dl>

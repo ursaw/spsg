@@ -45,11 +45,10 @@
     <h4>1.Vorsitzender</h4>
 	<address>
 	  <strong>Klaus Stammerjohann</strong><br>
-		Große Freiheit 77<br/>
-		22767 Hamburg<br/>
+		Elebeken 11<br/>
+		22299 Hamburg<br/>
 	
 		Tel.   0172-1999800<br/>
-		Fax.   04392-9168193<br/>
 	</address>
 	
 
