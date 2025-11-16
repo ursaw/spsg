@@ -14,7 +14,9 @@ set phpmainfile=generateAll.php
 
 
 
-cd %workdir%
+rem cd %workdir%
  
+C:\Users\Anwender\portableApps\php-8.4.14-Win32-vs17-x64\php.exe
 
-%xampp%\php\php.exe  generateAll.php
+rem %xampp%\php\php.exe  generateAll.php
+

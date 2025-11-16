@@ -2,8 +2,11 @@
 <h1>Der EnSFr in der Segelbundesliga</h1>
 <p>
 Die Entdecker inzwischen alte Legenden in der Segelbundesliga.
+</p>
 
-Nach zwischenzeitlicher Abstinez konnten sich die Entdecker jetzt für das zweite Jahr in Folge in der Bundesliga behaupten.
+<p>
+Nach zwischenzeitlicher Abstinez und zweiter Liga konnten sich die Entdecker jetzt 
+für die erste Segel Bundesliga qualifizieren!
 
 </p>
 
@@ -86,4 +89,5 @@ besetzt.
   <dt>2022</dt>  <dd>Zweite Liga: Platz 15, Relegation Platz 2</dd>
   <dt>2023</dt>  <dd>Zweite Liga: Platz 15, Relegation Platz 5</dd>
   <dt>2024</dt>  <dd>Zweite Liga: Platz  5, KEINE Relegation </dd>
+  <dt>2025</dt>  <dd>Zweite Liga: Platz  4, Aufstieg in die erste Liga</dd>
 </dl>
